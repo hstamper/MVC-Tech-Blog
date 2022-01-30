@@ -1,7 +1,7 @@
 :root {
-    --primary: gray;
+    --primary: rgba(207, 128, 24, 0.801);
     --secondary: #dce9d5;
-    --tertiary: #f1edea44;
+    --tertiary: #cf600b7e;
     --light-dark: #131013;
     --dark: white;
     --border-radius: .3rem;
@@ -12,7 +12,9 @@
 }
 
 body {
-    background-color: var(--primary);
+    background-image: url(../images/tech-against-trafficking-hero.jpg);
+    background-size: cover;
+    background-position: center;
     margin: 0;
     padding: 0;
     font-family: "IBM Plex Sans", sans-serif;
