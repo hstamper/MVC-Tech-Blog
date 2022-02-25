@@ -54,3 +54,7 @@ Testing can occur by cloning the repository and using the previously programmed 
 
 ## Questions
 Open a new issue under the repo at https://github.com/hstamper/MVC-Tech-Blog/issues
+
+## App Screenshots
+
+<img alt="Screen Shot1" src="public/images/The Tech Blog.tiff">
