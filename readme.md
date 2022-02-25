@@ -57,4 +57,3 @@ Open a new issue under the repo at https://github.com/hstamper/MVC-Tech-Blog/iss
 
 ## App Screenshots
 
-<img width="1392" alt="Screen Shot1" src="public/images/The Tech Blog.tiff">
